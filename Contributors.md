@@ -21,6 +21,7 @@ MedicalWealth
 - [Vivek Kumar Shrivastav](https://github.com/Vivek-Kumar-Shrivastav)
 - [Aaryan](https://github.com/Aaryan0484)
 - [Abhijeet Yadav](https://github.com/thecodeblood)
+- [Zeshan Khan](https://github.com/zkhan1994)
 - [Robert Garofalo](https://github.com/robertgarofalo)
 - [Suryansh Srivastava]
 - [Fernando Adames](https://github.com/FernandoAdames)
